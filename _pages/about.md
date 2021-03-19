@@ -17,7 +17,7 @@ redirect_from:
 * My research interest lies in the field of Macroeconomics and Econometrics. 
 
 
-<div align="center">
+<!--<div align="center">-->
  <!--   <img src="/images/siggraph2019.jpg" width="280"/>-->
 <!--   <iframe src="https://drive.google.com/file/d/1HimzV16RnBVuyyouuNFE_IFXTsDnctPx/preview" width="280" height="373" style="border: none"></iframe> -->
 <!--   <img src="https://drive.google.com/uc?id=1HimzV16RnBVuyyouuNFE_IFXTsDnctPx" width="280"/>-->
