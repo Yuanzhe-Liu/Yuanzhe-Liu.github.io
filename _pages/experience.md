@@ -17,3 +17,10 @@ Apply deep learning methods to MPM method for snow simulation in games.
 *Key Problems of the Multi-mode Coupled Visual-Haptic Feedback in Virtual Surgery Simulation (Natural Science Foundation of China)*
 
 Study the FEM model and implement efficient deformation simulation; Integrate the tissue model to the electromagnetic haptic feedback device.
+
+
+* Teaching Assistant:<br/>
+  [CSCI 520: Computer Animation and Simulation](),    University of Southern California,      Spring 2020
+
+* Teaching Assistant:<br/>
+  [CSCI 585: Database Systems](),    University of Southern California,      Spring 2019
