@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/Yuanzhe_Liu_CV.pdf)
