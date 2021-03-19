@@ -6,12 +6,7 @@ author_profile: true
 ---
 
 ## 2020
-<b>[3D Character Dynamics]()</b><br> 
-[[paper]()] [[project page](https://zhengmianlun.github.io/publications/deepEmulator.html)]<br>
-<span style="text-align: justify;">
-In progress.
-<!-- <b>Mianlun Zheng</b>, Yi Zhou, Duygy Ceylan, Jernej Barbic. -->
-</span> 
+
 
 <b>[Adjustable Constrained Soft-Tissue Dynamics]()</b><br> 
 [[paper](/publications/papers/adjustableDynamics.pdf)] [[project page](https://zhengmianlun.github.io/publications/adjustableDynamics.html)]<br>
