@@ -19,4 +19,4 @@ Study the FEM model and implement efficient deformation simulation; Integrate th
 
 
 
-* Teaching Assistant:<br/> RIT,      
+   
