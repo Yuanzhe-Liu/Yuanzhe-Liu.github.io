@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Yuanzhe Liu (刘远哲)"
+title: "Yuanzhe Liu"
 permalink: /cv/
 author_profile: true
 redirect_from:
