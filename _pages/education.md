@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-* Ph.D Student &ensp;&ensp;&ensp;&ensp;&ensp;University of California, Santa Barbara&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp;2019 - present
+* Ph.D Student &ensp;&ensp;&ensp;&ensp;&ensp;University of California, Santa Barbara&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp;&ensp;&ensp;2019 - present
 
 * Master &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;University of Wisconsin-Madison&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;2017 - 2019
 
