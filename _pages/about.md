@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* My name is Yuanzhe Liu. I am a second-year Ph.D student in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/).
+* My name is Yuanzhe Liu. I am a third-year Ph.D student in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/).
 <!--* Here is my CV: [Curriculum Vitae](/files/CV.pdf).-->
 
 * I received my Bachelor's degree in RIT and Master's degree in UW-Madison .
@@ -30,4 +30,5 @@ redirect_from:
 <br/>
 <br/>
 # Recent News
+* Fall 2021 quarter is over; please check my new working paper in Research. 
 * Here comes the new semester. Due to the Covid-19, we still have to work from home. Stay healthy and happy!
