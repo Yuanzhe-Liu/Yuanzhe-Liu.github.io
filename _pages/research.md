@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-<b>Durable Spending during the Covid-19 Pandemic (In progress)
+<b>Durable Spending during the Covid-19 Pandemic (In progress)</b><br> 
   [[paper](/files/ss.pdf)] <br>
 Previous studies find that households spend about 25 percent of their 2001 and 2008 rebates on nondurable consumptions. The majority of the fiscal stimulus would be either saved or used to pay off debt. However, most empirical researches found that durable consumptions are not very responsive to fiscal stimulus, especially during recessions. This contradicts the observation of the 2020 stimulus payment. We see a decrease in durable spending at the beginning of the pandemic and a quick recovery to a much higher level than the pre-pandemic. We propose a model incorporating household production and working from home to explain this unusual increase in durable spending and document the heterogeneous reaction among households. 
 
-<b>The impact of Covid on small business : From foot traffic data  (In progress)
+<b>The impact of Covid on small business : From foot traffic data  (In progress)</b><br> 
 The Covid pandemic has a disproportionally negative impact on local small businesses.  Small businesses are more vulnerable to negative economic shocks; it is usually more challenging for them to get help and fully recover from shocks. Even though the federal government offers forgivable paycheck protection program (PPP) loans to them,  there are still a significant amount of local vendors who went out of business during the past twelve months. We are trying to use foot traffic data from safegraph to answer which business is the most vulnerable and needs help the most. 
 
 <b>Loss and regret aversion in survey design (In progress)</b><br> 
