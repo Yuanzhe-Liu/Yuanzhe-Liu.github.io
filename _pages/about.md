@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* My name is Yuanzhe Liu. I am a third-year Ph.D student in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/).
+* My name is Yuanzhe Liu. I am a fourth-year Ph.D candidate in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/).
 <!--* Here is my CV: [Curriculum Vitae](/files/CV.pdf).-->
 
 * I received my Bachelor's degree in RIT and Master's degree in UW-Madison .
