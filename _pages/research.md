@@ -7,7 +7,7 @@ author_profile: true
 
 
 <b>Working from home, household production, and durable good consumption dynamics (In progress)</b><br> 
-  [[paper](/files/ss.pdf)] <br>
+  [[paper](/files/durable.pdf)] <br>
 I decompose the durable good consumption increase during 2020-2021 using a household production model with working-from-home. Durable good consumption is susceptible to business cycles; in past recessions, durable good consumption either decreased or slowed down. However, durable good consumption was very robust during and after the COVID-19 pandemic. I build a household production model with working from home and estimate the model using a Bayesian approach. Using Kalman smoother, we can then decompose the increase in durable good consumption into different channels. Working from home can account for up to one-third of the durable good consumption increase, and substitution between nondurable and durable can account for another one-third of the increase. 
 
 <b>The impact of Covid on small business : From foot traffic data  (In progress)</b><br> 
