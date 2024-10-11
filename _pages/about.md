@@ -16,9 +16,7 @@ redirect_from:
 
 * I received my Bachelor's degree in RIT and Master's degree in UW-Madison .
 
-My name is Yuanzhe Liu, and I am a job market candidate in the Department of Economics at UCSB. 
-My research interests lie in Macroeconomics, Computational Economics, and Bayesian Econometrics.
-My research focuses on leveraging Deep Learning and Reinforcement Learning techniques to solve dynamic stochastic models, particularly Heterogeneous Agent models, and applying likelihood-free Bayesian inference.
+My name is Yuanzhe Liu, and I am a job market candidate in the Department of Economics at UCSB. My research interests lie in Macroeconomics, Computational Economics, and Bayesian Econometrics. My research focuses on leveraging Deep Learning and Reinforcement Learning techniques to solve dynamic stochastic models, particularly Heterogeneous Agent models, and applying likelihood-free Bayesian inference.
 
 
 <!--<div align="center">-->
