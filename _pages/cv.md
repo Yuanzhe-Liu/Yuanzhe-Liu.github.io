@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/Yuanzhe_Liu_CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](/files/Yuanzhe_Liu_CV.pdf) (Last updated: 10/11/2024)
