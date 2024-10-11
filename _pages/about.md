@@ -12,7 +12,7 @@ redirect_from:
 * My name is Yuanzhe Liu, and I am a job market candidate in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/), currently on the job market.
 <!--* Here is my CV: [Curriculum Vitae](/files/CV.pdf).-->
 
-* My research interest lies in the field of Macroeconomics, Computational Economics, and Bayesian Econometrics. 
+* My research interest lies in the field of *Macroeconomics*, _Computational Economics_, and _Bayesian Econometrics_. 
 
 * I received my Bachelor's degree in RIT and Master's degree in UW-Madison .
 
