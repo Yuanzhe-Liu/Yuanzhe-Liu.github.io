@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 
-* My name is Yuanzhe Liu. I am a sixth-year Ph.D candidate in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/).
+* My name is Yuanzhe Liu. I am a sixth-year Ph.D. Job Market Candidate in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/).
 <!--* Here is my CV: [Curriculum Vitae](/files/CV.pdf).-->
+
+* My research interest lies in the field of Macroeconomics, Computational Economics, and Econometrics. 
 
 * I received my Bachelor's degree in RIT and Master's degree in UW-Madison .
 
-* My research interest lies in the field of Macroeconomics, Computational Economics, and Econometrics. 
+
 
 
 <!--<div align="center">-->
