@@ -12,13 +12,13 @@ redirect_from:
 * My name is Yuanzhe Liu, and I am a job market candidate in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/), currently on the job market.
 <!--* Here is my CV: [Curriculum Vitae](/files/CV.pdf).-->
 
-* My research interest lies in the field of *Macroeconomics*, _Computational Economics_, and _Bayesian Econometrics_. 
+* My research interest lies in the field of __Macroeconomics__, __Computational Economics__, and __Bayesian Econometrics__. 
 
 * I received my Bachelor's degree in RIT and Master's degree in UW-Madison .
 
 * I am on the job market in the <span style="color:red"> 2024-25 </span> academic year. 
-<!--My name is Yuanzhe Liu, and I am a job market candidate in the Department of Economics at UCSB. My research interests lie in Macroeconomics, Computational Economics, and Bayesian Econometrics. Currently, I am working on leveraging Deep Learning and Reinforcement Learning techniques to solve dynamic stochastic models, particularly Heterogeneous Agent models, and integrating the innovative solution method with likelihood-free Bayesian inference.-->
 
+<!--My name is Yuanzhe Liu, and I am a job market candidate in the Department of Economics at UCSB. My research interests lie in Macroeconomics, Computational Economics, and Bayesian Econometrics. Currently, I am working on leveraging Deep Learning and Reinforcement Learning techniques to solve dynamic stochastic models, particularly Heterogeneous Agent models, and integrating the innovative solution method with likelihood-free Bayesian inference.-->
 
 <!--<div align="center">-->
  <!--   <img src="/images/siggraph2019.jpg" width="280"/>-->
