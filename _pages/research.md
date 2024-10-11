@@ -5,12 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-<b>Solve and Estimate Heterogenous Agent Model Using Reinforcement Learning and Machine Learning (Job Market Paper)</b><br> 
+<b>Solve and Estimate Heterogeneous Agent Model Using Reinforcement Learning and Machine Learning (Job Market Paper)</b><br> 
   [[paper](/files/JMP.pdf)] <br>
-In this paper, I introduce an innovative approach leveraging Deep Reinforcement Learn-
-ing techniques to solve and estimate heterogeneous models. Contrasted with conven-
-tional solution methods, the deep learning approach offers a global solution while retain-
-ing the entirety of nonlinearity. Moreover, it exhibits remarkable scalability, making it
+In this paper, I introduce an innovative approach leveraging Deep Reinforcement Learning techniques to solve and estimate heterogeneous models. 
+Contrasted with conventional solution methods, the deep learning approach offers a global solution while retaining the entirety of nonlinearity. 
+Moreover, it exhibits remarkable scalability, making it
 suitable for handling models with hundreds or even thousands of state variables. I also
 explore the integration of this novel solution method with amortized likelihood-free
 Bayesian inference, opening up new possibilities for advanced probabilistic modeling
