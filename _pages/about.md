@@ -33,6 +33,7 @@ My name is Yuanzhe Liu, and I am a job market candidate in the Department of Eco
 <br/>
 # Recent News
 * Fall 2024, I am on the job market.
+* Spring 2023, Happily married to [Mianlun Zheng](https://zhengmianlun.github.io/).
 * Fall 2022, Advanced to candidacy
 * Fall 2021 quarter is over; please check my new working paper in Research. 
 * Here comes the new semester. Due to the Covid-19, we still have to work from home. Stay healthy and happy!
