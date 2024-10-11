@@ -13,7 +13,7 @@ environmental statistics for Santa Barbara County, using Python and R.
 Barbara region.
 * Mentor and manage undergraduate research assistants.
 
-### Teaching Assistant: UCSB,      2019 - present
+### Teaching Assistant: UCSB,      Oct 2019 - May 2024
 
 * Undergraduate Courses : Financial Economics, Econometrics, Managerial Economics.
 * PhD Courses : Macroeconomics II and III
