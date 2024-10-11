@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 
-* Ph.D Student &ensp;&ensp;&ensp;&ensp;&ensp;University of California, Santa Barbara&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp;&ensp;&ensp;2019 - June 2025 (Expected)
+* Ph.D Student &ensp;&ensp;&ensp;&ensp;&ensp;University of California, Santa Barbara&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; 2019 - June 2025 (Expected)
 
-* Master &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;University of Wisconsin-Madison&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;2017 - 2019
+* Master &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;University of Wisconsin-Madison&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 2017 - 2019
 
-* Bachelor &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Rochester Institute of Technology&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp;&ensp;2014 - 2017
+* Bachelor &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Rochester Institute of Technology&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; &ensp; &ensp; 2014 - 2017
 
 
