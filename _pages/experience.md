@@ -3,7 +3,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-### Senior Research Analyst [UCSB EFP](https://efp.ucsb.edu/),      2024 - present
+### Senior Research Analyst: [UCSB EFP](https://efp.ucsb.edu/),      June 2024 - present
 
 * Developed a Deep Learning model to forecast employment and inflation for Santa Barbara county
 and Santa Maria-Santa Barbara Metropolitan Statistical Area.
