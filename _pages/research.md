@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-<b>Solve and Estimate Heterogeneous Agent Model Using Reinforcement Learning and Machine Learning (Job Market Paper)</b><br> 
+<b>Solving and Estimating Heterogeneous Agent Model Using Reinforcement and Machine Learning (Job Market Paper)</b><br> 
   [[paper](/files/JMP.pdf)] <br>
 In this paper, I introduce an innovative approach leveraging Deep Reinforcement Learning techniques to solve and estimate heterogeneous models. Contrasted with conventional solution methods, the deep learning approach offers a global solution while retaining the entirety of nonlinearity. Moreover, it exhibits remarkable scalability, making it suitable for handling models with hundreds or even thousands of state variables. I also explore the integration of this novel solution method with amortized likelihood-free Bayesian inference, opening up new possibilities for advanced probabilistic modeling and estimation. 
 
 
-<b>Working from home, household production, and durable good consumption dynamics (In progress)</b><br> 
+<b>Working from Home, Household Production, and Durable Good Consumption</b><br> 
   [[paper](/files/durable.pdf)] <br>
 I decompose the durable good consumption increase during 2020-2021 using a household production model with working-from-home. Durable good consumption is susceptible to business cycles; in past recessions, durable good consumption either decreased or slowed down. However, durable good consumption was very robust during and after the COVID-19 pandemic. I build a household production model with working from home and estimate the model using a Bayesian approach. Using Kalman smoother, we can then decompose the increase in durable good consumption into different channels. Working from home can account for up to one-third of the durable good consumption increase, and substitution between nondurable and durable can account for another one-third of the increase. 
 
