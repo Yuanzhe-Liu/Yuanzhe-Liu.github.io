@@ -14,6 +14,14 @@ In this paper, I introduce an innovative approach leveraging Deep Reinforcement 
   [[paper](/files/durable.pdf)] <br>
 I decompose the durable good consumption increase during 2020-2021 using a household production model with working-from-home. Durable good consumption is susceptible to business cycles; in past recessions, durable good consumption either decreased or slowed down. However, durable good consumption was very robust during and after the COVID-19 pandemic. I build a household production model with working from home and estimate the model using a Bayesian approach. Using Kalman smoother, we can then decompose the increase in durable good consumption into different channels. Working from home can account for up to one-third of the durable good consumption increase, and substitution between nondurable and durable can account for another one-third of the increase. 
 
+
+
+<b>Medical Expenses, Uncertainty and Mortgage Applications</b><br> 
+With Fanyu Liu and  Kerui Geng <br>
+  [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027252)] <br>
+This paper examines how access to health insurance for low-income households affects hoursing investment decisions. Specifically, we estimate the impact of Affordable Care Act (ACA) Marketplace subsidies on mortgage applications and originations using comprehensive mortgage application record data. We first construct a theoretical model in which simulations find that the demand for housing values increases when insurance reduces medical expenses and uncertainty. Then, we use a difference-in-differences approach that exploits variation in county health insurance coverage rates at the time of the ACA reform. We find that the subsidies increased the amount of mortgages applied for by low-income households and the amount actually originated by financial institutions. To explore potential mechanisms, we find that these subsidies increased low-income households' health insurance coverage rates, reduced large-scale  medical expenditures and mortgage delinquency rates. These findings highlight the broader economic impact of health insurance beyond reducing healthcare expenditures for low-income groups.
+
+
 [//]: # (<b>The impact of Covid on small business : From foot traffic data  &#40;In progress&#41;</b><br> )
 
 [//]: # (The Covid pandemic has a disproportionally negative impact on local small businesses.  Small businesses are more vulnerable to negative economic shocks; it is usually more challenging for them to get help and fully recover from shocks. Even though the federal government offers forgivable paycheck protection program &#40;PPP&#41; loans to them,  there are still a significant amount of local vendors who went out of business during the past twelve months. We are trying to use foot traffic data from safegraph to answer which business is the most vulnerable and needs help the most. )
