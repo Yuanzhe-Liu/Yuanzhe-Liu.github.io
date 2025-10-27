@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* My name is Yuanzhe Liu, and I am a job market candidate in the [Department of Economics](https://www.econ.ucsb.edu/) at [UCSB](https://www.ucsb.edu/), currently on the <span style="color:red"> 2024-25 </span> job market.
+* My name is Yuanzhe Liu, and I am an economist with a Ph.D. in Economics from [UCSB](https://www.ucsb.edu/). I am currently a Scientist at Uber.
 <!--* Here is my CV: [Curriculum Vitae](/files/CV.pdf).-->
 
 * My research interest lies in the field of __Macroeconomics__, __Computational Economics__, and __Bayesian Econometrics__. 
@@ -31,6 +31,7 @@ redirect_from:
 <br/>
 <br/>
 # Recent News
+* Oct 2025, I joined Uber as a Scientist.
 * Fall 2024, I am on the job market.
 * Spring 2023, Happily married to [Mianlun Zheng](https://zhengmianlun.github.io/).
 * Fall 2022, Advanced to candidacy
